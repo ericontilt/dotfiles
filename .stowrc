@@ -1,4 +1,6 @@
 --target=~/.config
 --ignore=.stowrc
+--ignore=README.md
 --ignore=DS_Store
 --ignore=atuin/*
+--ignore=zsh/*
